@@ -62,7 +62,7 @@ namespace n1_inmobiliaria.sourse.mundo
             mansion2.modificarTamanio(tamanio);
 
         }
-        //Metodo para actualizar la imformacion de la mansion 3
+        //Metodo para actualizar la imformacion de la mansion 3 de la app
         public void actualizarDatosMancion3(int habitantes, int numParequeadero, int numEmpleados, int precio, int tamanio)
         {
             mansion3.modificarHabitantes(habitantes);
